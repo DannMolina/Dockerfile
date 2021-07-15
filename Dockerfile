@@ -26,7 +26,8 @@
 
 
 ########################
-# Dockerfile config
+# Dockerfile config 
+# Can add additional command
 ########################
 
 # OS runtime ENV
